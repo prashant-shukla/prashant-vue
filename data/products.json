@@ -1,0 +1,544 @@
+{
+    "data": [
+        {
+            "id": 191,
+            "title": "diamond ring",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Cartier",
+            "collection": ["on sale"],
+            "category": "jewellery",
+            "price": 500,
+            "sale": true,
+            "discount": "10",
+            "stock": 25,
+            "new": true,
+            "tags": [
+                "sale"
+            ],
+            "variants": [
+                {
+                    "variant_id": 19101,
+                    "id": 191,
+                    "sku": "jewellery46",
+                    "image_id": 19111
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 19111,
+                    "id": 191,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=1",
+                    "variant_id": [
+                        19101
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 192,
+            "title": "round pendant",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Malabar",
+            "collection": ["new arrival"],
+            "category": "jewellery",
+            "price": 450,
+            "sale": true,
+            "discount": "15",
+            "stock": 5,
+            "new": false,
+            "tags": [
+                "Malabar"
+            ],
+            "variants": [
+                {
+                    "variant_id": 19201,
+                    "id": 192,
+                    "sku": "jewellery46",
+                    "image_id": 19211
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 19211,
+                    "id": 192,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=2",
+                    "variant_id": [
+                        19201
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 193,
+            "title": "new bangles",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Tanishq",
+            "collection": ["on sale"],
+            "category": "jewellery",
+            "price": 850,
+            "sale": false,
+            "discount": "60",
+            "stock": 5,
+            "new": true,
+            "tags": [
+                "Tanishq"
+            ],
+            "variants": [
+                {
+                    "variant_id": 19301,
+                    "id": 193,
+                    "sku": "jewellery46",
+                    "image_id": 19311
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 19311,
+                    "id": 193,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=3",
+                    "variant_id": [
+                        19301
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 194,
+            "title": "new earings",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Tanishq",
+            "collection": ["new arrival"],
+            "category": "jewellery",
+            "price": 600,
+            "sale": true,
+            "discount": "12",
+            "stock": 2,
+            "new": true,
+            "tags": [
+                "Tanishq"
+            ],
+            "variants": [
+                {
+                    "variant_id": 19401,
+                    "id": 194,
+                    "sku": "jewellery46",
+                    "image_id": 19411
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 19411,
+                    "id": 194,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=4",
+                    "variant_id": [
+                        19401
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 195,
+            "title": "diamond necklace",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Cartier",
+            "collection": ["new arrival"],
+            "category": "jewellery",
+            "price": 900,
+            "sale": true,
+            "discount": "15",
+            "stock": 10,
+            "new": false,
+            "tags": [
+                "Cartier"
+            ],
+            "variants": [
+                {
+                    "variant_id": 19501,
+                    "id": 195,
+                    "sku": "jewellery46",
+                    "image_id": 19511
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 19511,
+                    "id": 195,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=5",
+                    "variant_id": [
+                        19501
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 196,
+            "title": "heart ring",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Tanishq",
+            "collection": ["new arrival"],
+            "category": "jewellery",
+            "price": 200,
+            "sale": false,
+            "discount": "50",
+            "stock": 0,
+            "new": true,
+            "tags": [
+                "new"
+            ],
+            "variants": [
+                {
+                    "variant_id": 19601,
+                    "id": 196,
+                    "sku": "jewellery46",
+                    "image_id": 19611
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 19611,
+                    "id": 196,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=6",
+                    "variant_id": [
+                        19601
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 197,
+            "title": "diamond brecelet",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Tanishq",
+            "collection": ["on sale", "new arrival"],
+            "category": "jewellery",
+            "price": 399,
+            "sale": false,
+            "discount": "5",
+            "stock": 3,
+            "new": true,
+            "tags": [
+                "Tanishq"
+            ],
+            "variants": [
+                {
+                    "variant_id": 19701,
+                    "id": 197,
+                    "sku": "jewellery46",
+                    "image_id": 19711
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 19711,
+                    "id": 197,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=7",
+                    "variant_id": [
+                        19701
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 198,
+            "title": "bangles set",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Malabar",
+            "collection": ["on sale"],
+            "category": "jewellery",
+            "price": 849,
+            "sale": true,
+            "discount": "5",
+            "stock": 8,
+            "new": false,
+            "tags": [
+                "Malabar"
+            ],
+            "variants": [
+                {
+                    "variant_id": 19801,
+                    "id": 198,
+                    "sku": "jewellery46",
+                    "image_id": 19811
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 19811,
+                    "id": 198,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=8",
+                    "variant_id": [
+                        19801
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 199,
+            "title": "choker necklace",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Cartier",
+            "collection": ["on sale"],
+            "category": "jewellery",
+            "price": 719,
+            "sale": false,
+            "discount": "20",
+            "stock": 9,
+            "new": false,
+            "tags": [
+                "Cartier"
+            ],
+            "variants": [
+                {
+                    "variant_id": 19901,
+                    "id": 199,
+                    "sku": "jewellery46",
+                    "image_id": 19911
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 19911,
+                    "id": 199,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=9",
+                    "variant_id": [
+                        19901
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 200,
+            "title": "drop earings",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Tanishq",
+            "collection": ["new arrival"],
+            "category": "jewellery",
+            "price": 250,
+            "sale": false,
+            "discount": "40",
+            "stock": 15,
+            "new": false,
+            "tags": [
+                "Tanishq"
+            ],
+            "variants": [
+                {
+                    "variant_id": 20001,
+                    "id": 200,
+                    "sku": "jewellery46",
+                    "image_id": 20011
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 20011,
+                    "id": 200,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=10",
+                    "variant_id": [
+                        20001
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 201,
+            "title": "cuff bracelet",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Tanishq",
+            "collection": ["new arrival"],
+            "category": "jewellery",
+            "price": 449,
+            "sale": true,
+            "discount": "5",
+            "stock": 12,
+            "new": false,
+            "tags": [
+                "Tanishq"
+            ],
+            "variants": [
+                {
+                    "variant_id": 20101,
+                    "id": 201,
+                    "sku": "jewellery46",
+                    "image_id": 20111
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 20111,
+                    "id": 201,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=11",
+                    "variant_id": [
+                        20101
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 202,
+            "title": "couple rings",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Malabar",
+            "collection": ["new arrival"],
+            "category": "jewellery",
+            "price": 749,
+            "sale": false,
+            "discount": "5",
+            "stock": 20,
+            "new": true,
+            "tags": [
+                "Malabar"
+            ],
+            "variants": [
+                {
+                    "variant_id": 20201,
+                    "id": 202,
+                    "sku": "jewellery46",
+                    "image_id": 20211
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 20211,
+                    "id": 202,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=12",
+                    "variant_id": [
+                        20201
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 203,
+            "title": "stud earings",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Cartier",
+            "collection": ["on sale"],
+            "category": "jewellery",
+            "price": 300,
+            "sale": false,
+            "discount": "15",
+            "stock": 5,
+            "new": true,
+            "tags": [
+                "Cartier"
+            ],
+            "variants": [
+                {
+                    "variant_id": 20301,
+                    "id": 203,
+                    "sku": "jewellery46",
+                    "image_id": 20311
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 20311,
+                    "id": 203,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=13",
+                    "variant_id": [
+                        20301
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 204,
+            "title": "beaded necklace",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Malabar",
+            "collection": ["on sale"],
+            "category": "jewellery",
+            "price": 650,
+            "sale": true,
+            "discount": "12",
+            "stock": 0,
+            "new": false,
+            "tags": [
+                "Malabar"
+            ],
+            "variants": [
+                {
+                    "variant_id": 20401,
+                    "id": 204,
+                    "sku": "jewellery46",
+                    "image_id": 20411
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 20411,
+                    "id": 204,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=14",
+                    "variant_id": [
+                        20401
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 205,
+            "title": "pendant necklace",
+            "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.",
+            "type": "jewellery",
+            "brand": "Tanishq",
+            "collection": ["on sale"],
+            "category": "jewellery",
+            "price": 499,
+            "sale": false,
+            "discount": "50",
+            "stock": 12,
+            "new": true,
+            "tags": [
+                "Tanishq"
+            ],
+            "variants": [
+                {
+                    "variant_id": 20501,
+                    "id": 205,
+                    "sku": "jewellery46",
+                    "image_id": 20511
+                }
+            ],
+            "images": [
+                {
+                    "image_id": 20511,
+                    "id": 205,
+                    "alt": "jewellery",
+                    "src": "https://picsum.photos/442/200?random=15",
+                    "variant_id": [
+                        20501
+                    ]
+                }
+            ]
+        }
+    ]
+}
